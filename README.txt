@@ -1,3 +1,5 @@
+----------- Proyecto gestión de propiedades. ---------------
+
 Para ejecutar el proyecto ponerlo en la dirección: C:\PROYECTOS_DESARROLLO_SOFTWARE\GESTORINMOBILIARIO\GestorInmobiliario
 
 
