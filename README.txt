@@ -1,5 +1,7 @@
 ----------- Proyecto gestión de propiedades. ---------------
 
+Creado por: JHONY ANDRES MIRA GAVIRIA
+
 Para ejecutar el proyecto ponerlo en la dirección: C:\PROYECTOS_DESARROLLO_SOFTWARE\GESTORINMOBILIARIO\GestorInmobiliario
 
 
@@ -11,16 +13,14 @@ O
 
 En visual studio ejecutar GestorInmobiliario.Backend como Proyecto principal
 
+ Para ejecutar el Frontend: 
+Ejecutar en CMD:
+C:\PROYECTOS_DESARROLLO_SOFTWARE\GESTORINMOBILIARIO\GestorInmobiliario\GestorInmobiliario.Frontend\npm run devv 
+
 
 ------ PRUEBAS UNITARIAS: -----
 BACKEND: DENTRO DE CARPETA BACKEND.TESTS.
 FRONTEND: DENTRO DE PROYECTO FRONTEND CARPETA FRONT_END_TEST
-
-
-Para ejecutar el Frontend: 
-Ejecutar en CMD:
-C:\PROYECTOS_DESARROLLO_SOFTWARE\GESTORINMOBILIARIO\GestorInmobiliario\GestorInmobiliario.Frontend\npm run devv 
-
 
 
 
