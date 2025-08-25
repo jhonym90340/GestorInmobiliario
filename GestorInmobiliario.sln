@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestorInmobiliario.Backend", "GestorInmobiliario.Backend\GestorInmobiliario.Backend.csproj", "{EAAE92FF-8E6E-4283-B14F-2A1F84765FB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestorInmobiliario.Shared", "GestorInmobiliario.Shared\GestorInmobiliario.Shared.csproj", "{80E614A4-B5CF-4FD9-B62A-DA52A1E97E5A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GestorInmobiliario.Frontend", "GestorInmobiliario.Frontend", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		GestorInmobiliario.Frontend\.gitignore = GestorInmobiliario.Frontend\.gitignore
+		GestorInmobiliario.Frontend\eslint.config.js = GestorInmobiliario.Frontend\eslint.config.js
+		GestorInmobiliario.Frontend\index.html = GestorInmobiliario.Frontend\index.html
+		GestorInmobiliario.Frontend\package-lock.json = GestorInmobiliario.Frontend\package-lock.json
+		GestorInmobiliario.Frontend\package.json = GestorInmobiliario.Frontend\package.json
+		GestorInmobiliario.Frontend\postcss.config.js = GestorInmobiliario.Frontend\postcss.config.js
+		GestorInmobiliario.Frontend\README.md = GestorInmobiliario.Frontend\README.md
+		GestorInmobiliario.Frontend\tailwind.config.js = GestorInmobiliario.Frontend\tailwind.config.js
+		GestorInmobiliario.Frontend\vite.config.js = GestorInmobiliario.Frontend\vite.config.js
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestorInmobiliario.backend.Tests", "GestorInmobiliario.backend.Tests\GestorInmobiliario.backend.Tests.csproj", "{77F510D1-BC1B-9B00-66A6-26E8D79A9E3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAAE92FF-8E6E-4283-B14F-2A1F84765FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAAE92FF-8E6E-4283-B14F-2A1F84765FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAAE92FF-8E6E-4283-B14F-2A1F84765FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAAE92FF-8E6E-4283-B14F-2A1F84765FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E614A4-B5CF-4FD9-B62A-DA52A1E97E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E614A4-B5CF-4FD9-B62A-DA52A1E97E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E614A4-B5CF-4FD9-B62A-DA52A1E97E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E614A4-B5CF-4FD9-B62A-DA52A1E97E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77F510D1-BC1B-9B00-66A6-26E8D79A9E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F510D1-BC1B-9B00-66A6-26E8D79A9E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F510D1-BC1B-9B00-66A6-26E8D79A9E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F510D1-BC1B-9B00-66A6-26E8D79A9E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38B15DCF-E2E6-4D48-BFED-21F6757AC1FC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+/* src/index.css o src/App.css */
+
+/* Importa las directivas base de Tailwind CSS, componentes y utilidades */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Define la fuente principal 'Inter' para todo el cuerpo del documento */
+body {
+  font-family: 'Inter', sans-serif;
+  /* Opcional: Puedes establecer un color de fondo global muy sutil aquí */
+  /* background-color: #f9fafb; */
+}
+
+/*
+  Para asegurar que la fuente 'Inter' esté disponible,
+  debes importarla en tu archivo HTML principal (public/index.html)
+  desde Google Fonts. Por ejemplo, en la sección <head>:
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+*/
