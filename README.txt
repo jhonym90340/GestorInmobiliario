@@ -1,4 +1,4 @@
-Para ejecutar el proyecto ponerlo en la dirección: C:\PROYECTOS_DESARROLLO_SOFTWARE\GESTORINMOBILIARIO\Gestorinmobiliario
+Para ejecutar el proyecto ponerlo en la dirección: C:\PROYECTOS_DESARROLLO_SOFTWARE\GESTORINMOBILIARIO\GestorInmobiliario
 
 
 Para ejecutar el Backend:
