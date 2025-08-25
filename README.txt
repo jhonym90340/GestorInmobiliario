@@ -12,6 +12,10 @@ O
 En visual studio ejecutar GestorInmobiliario.Backend como Proyecto principal
 
 
+------ PRUEBAS UNITARIAS: -----
+BACKEND: DENTRO DE CARPETA BACKEND.TEST.
+FRONTEND: DENTRO DE PROYECTO FRONTEND CARPETA FRONTEND TEST
+
 
 Para ejecutar el Frontend: 
 Ejecutar en CMD:
@@ -67,3 +71,6 @@ Tailwind CSS (Utility-first CSS framework)
 CSS Modules (Para estilos componentizados)
 
 Responsive Design
+
+
+
